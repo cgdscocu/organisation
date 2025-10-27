@@ -65,3 +65,5 @@ const References = () => {
     </section>
   );
 };
+
+export default References;
