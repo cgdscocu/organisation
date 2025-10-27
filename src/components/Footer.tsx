@@ -17,9 +17,9 @@ const Footer = () => {
           {/* Company Info */}
           <div className="lg:col-span-2">
             <div className="flex flex-col mb-4">
-              <h3 className="text-3xl font-bold text-red-600 leading-tight">Münhasır</h3>
-              <div className="w-32 h-px bg-red-600 my-1"></div>
-              <p className="text-lg font-semibold text-gray-300">Yemek & Organizasyon</p>
+              <h3 className="text-3xl font-extrabold tracking-wide text-red-600 leading-tight" style={{ fontFamily: 'Georgia, serif' }}>MÜNHASIR</h3>
+              <div className="w-36 h-[2px] bg-red-600 my-2"></div>
+              <p className="text-sm font-medium tracking-widest text-gray-300 uppercase" style={{ fontFamily: 'system-ui, sans-serif' }}>Yemek & Organizasyon</p>
             </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
               2008 yılından bu yana Türkiye'nin dört bir yanında profesyonel catering 
