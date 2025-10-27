@@ -16,7 +16,11 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div className="lg:col-span-2">
-            <h3 className="text-2xl font-bold text-red-600 mb-4">XX Organizasyon</h3>
+            <div className="flex flex-col mb-4">
+              <h3 className="text-2xl font-extrabold tracking-wide text-red-600 leading-tight" style={{ fontFamily: 'Georgia, serif' }}>MÜNHASIR</h3>
+              <div className="w-32 h-[2px] bg-red-600 my-2"></div>
+              <p className="text-xs font-medium tracking-widest text-gray-300 uppercase" style={{ fontFamily: 'system-ui, sans-serif' }}>Yemek & Organizasyon</p>
+            </div>
             <p className="text-gray-300 mb-6 leading-relaxed">
               2008 yılından bu yana Türkiye'nin dört bir yanında profesyonel catering 
               ve organizasyon hizmetleri sunuyoruz. Özel anlarınızı unutulmaz 
@@ -74,7 +78,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-gray-400">
-              © 2025 XX Organizasyon. Tüm hakları saklıdır.
+              © 2024 Münhasır Yemek & Organizasyon. Tüm hakları saklıdır.
             </p>
             <div className="flex items-center space-x-4 mt-4 md:mt-0">
               <p className="text-sm text-gray-400">

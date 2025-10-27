@@ -38,9 +38,9 @@ const About = () => {
             
             <div className="space-y-6 text-lg text-gray-600 leading-relaxed">
               <p>
-                <strong className="text-red-600">XX Organizasyon</strong> olarak 2008 yılından bu yana 
-                Türkiye'nin dört bir yanında profesyonel catering ve organizasyon hizmetleri sunuyoruz. 
-                Sektördeki 15 yılı aşkın deneyimimizle, her organizasyonu özenle planlıyor ve 
+                <strong className="text-red-600">Münhasır Yemek & Organizasyon</strong> olarak 2008 yılından bu yana
+                Türkiye'nin dört bir yanında profesyonel catering ve organizasyon hizmetleri sunuyoruz.
+                Sektördeki 15 yılı aşkın deneyimimizle, her organizasyonu özenle planlıyor ve
                 mükemmel lezzetlerle hayata geçiriyoruz.
               </p>
               
@@ -75,7 +75,7 @@ const About = () => {
           <div className="relative">
             <img
               src="https://images.pexels.com/photos/587741/pexels-photo-587741.jpeg?auto=compress&cs=tinysrgb&w=800"
-              alt="XX Organizasyon ekibi"
+              alt="Münhasır Yemek & Organizasyon ekibi"
               className="w-full h-96 object-cover rounded-lg shadow-2xl"
             />
             <div className="absolute -bottom-6 -right-6 bg-red-600 text-white p-6 rounded-lg shadow-lg">

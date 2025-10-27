@@ -18,7 +18,11 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <div className="flex items-center">
-            <h1 className="text-2xl font-bold text-red-600">XX Organizasyon</h1>
+            <div className="flex flex-col items-center">
+              <h1 className="text-xl font-extrabold tracking-wide text-red-600 leading-tight" style={{ fontFamily: 'Georgia, serif' }}>MÜNHASIR</h1>
+              <div className="w-full h-[2px] bg-red-600 my-1"></div>
+              <p className="text-[10px] font-medium tracking-widest text-gray-700 uppercase" style={{ fontFamily: 'system-ui, sans-serif' }}>Yemek & Organizasyon</p>
+            </div>
           </div>
 
           {/* Desktop Navigation */}
