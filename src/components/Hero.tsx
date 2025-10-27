@@ -20,11 +20,11 @@ const Hero = () => {
         <div className="text-center text-white px-4 max-w-4xl mx-auto">
           {/* Logo */}
           <div className="mb-8">
-            <h1 className="text-7xl md:text-9xl font-extrabold tracking-wider text-orange-400 leading-tight" style={{ fontFamily: 'Georgia, serif', textShadow: '2px 2px 4px rgba(0,0,0,0.3)' }}>
+            <h1 className="text-6xl md:text-8xl font-extrabold tracking-wider text-orange-400 leading-tight" style={{ fontFamily: 'Georgia, serif', textShadow: '2px 2px 4px rgba(0,0,0,0.3)' }}>
               MÜNHASIR
             </h1>
-            <div className="w-64 h-1 bg-orange-400 mx-auto my-4 shadow-lg"></div>
-            <h2 className="text-2xl md:text-3xl font-medium tracking-widest text-white uppercase" style={{ fontFamily: 'system-ui, sans-serif', letterSpacing: '0.3em' }}>
+            <div className="w-56 h-1 bg-orange-400 mx-auto my-4 shadow-lg"></div>
+            <h2 className="text-xl md:text-2xl font-medium tracking-widest text-white uppercase" style={{ fontFamily: 'system-ui, sans-serif', letterSpacing: '0.3em' }}>
               Yemek & Organizasyon
             </h2>
           </div>
