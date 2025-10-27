@@ -51,6 +51,7 @@ const Services = () => {
       icon: Moon,
       color: 'text-purple-600'
     }
+  ];
 
   return (
     <section id="hizmetler" className="py-20 bg-gray-50">
