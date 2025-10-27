@@ -22,7 +22,7 @@ const Contact = () => {
     {
       icon: Clock,
       title: 'Çalışma Saatleri',
-      info: 'Pazartesi - Cumartesi',
+      info: 'Pazartesi - Pazar',
       subInfo: '09:00 - 18:00',
       color: 'text-orange-600',
       bgColor: 'bg-orange-100'

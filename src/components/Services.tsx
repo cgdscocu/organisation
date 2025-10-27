@@ -86,9 +86,7 @@ const Services = () => {
                   <p className="text-gray-600 leading-relaxed">
                     {service.description}
                   </p>
-                  <button className="mt-4 text-red-600 font-semibold hover:text-red-700 transition-colors duration-200">
-                    Detayları Görüntüle →
-                  </button>
+                  
                 </div>
               </div>
             );
