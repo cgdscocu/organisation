@@ -1,5 +1,5 @@
 import React from 'react';
-import { Phone, Mail, Clock } from 'lucide-react';
+import { Phone, Mail } from 'lucide-react';
 
 const Contact = () => {
   const contactInfo = [
@@ -18,14 +18,6 @@ const Contact = () => {
       subInfo: 'iletisim@xxorganizasyon.com',
       color: 'text-blue-600',
       bgColor: 'bg-blue-100'
-    },
-    {
-      icon: Clock,
-      title: 'Çalışma Saatleri',
-      info: 'Pazartesi - Pazar',
-      subInfo: '09:00 - 18:00',
-      color: 'text-orange-600',
-      bgColor: 'bg-orange-100'
     }
   ];
 

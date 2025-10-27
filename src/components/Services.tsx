@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heart, Users, Star, Coffee, Utensils } from 'lucide-react';
+import { Heart, Users, Star, Coffee, Utensils, Moon } from 'lucide-react';
 
 const Services = () => {
   const services = [
@@ -42,8 +42,15 @@ const Services = () => {
       image:'/images/piknik.jpg',
       icon: Star,
       color: 'text-blue-600'
+    },
+    {
+      id: 6,
+      title: 'İftar Organizasyonu',
+      description: 'Ramazan ayında özel iftar organizasyonları düzenliyoruz. Geleneksel lezzetlerle dolu menülerimizle iftar sofralarınızı zenginleştiriyoruz.',
+      image:'/images/iftar.jpg',
+      icon: Moon,
+      color: 'text-purple-600'
     }
-  ];
 
   return (
     <section id="hizmetler" className="py-20 bg-gray-50">
