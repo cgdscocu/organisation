@@ -20,10 +20,13 @@ const Hero = () => {
         <div className="text-center text-white px-4 max-w-4xl mx-auto">
           {/* Logo */}
           <div className="mb-8">
-            <h1 className="text-5xl md:text-7xl font-bold mb-4 text-orange-400">
-              XX Organizasyon
+            <h1 className="text-6xl md:text-8xl font-bold text-orange-400 leading-tight">
+              Münhasır
             </h1>
-            <div className="w-32 h-1 bg-red-600 mx-auto mb-6"></div>
+            <div className="w-48 h-0.5 bg-orange-400 mx-auto my-3"></div>
+            <h2 className="text-3xl md:text-4xl font-semibold text-white">
+              Yemek & Organizasyon
+            </h2>
           </div>
 
           {/* Slogan */}
