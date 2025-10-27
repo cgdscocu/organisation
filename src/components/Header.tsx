@@ -74,10 +74,10 @@ const Header = () => {
               Hemen Ulaşın
             </button>
             <a
-              href="tel:+902121234567"
+              href="tel:+905325845599"
               className="text-sm text-gray-700 hover:text-red-600 transition-colors duration-200 mt-1"
             >
-              +90 212 123 45 67
+              +90 532 584 55 99
             </a>
           </div>
 
@@ -137,10 +137,10 @@ const Header = () => {
                 Hemen Ulaşın
               </button>
               <a
-                href="tel:+902121234567"
+                href="tel:+905325845599"
                 className="block w-full text-center mt-2 text-gray-700 hover:text-red-600 transition-colors duration-200"
               >
-                +90 212 123 45 67
+                +90 532 584 55 99
               </a>
             </nav>
           </div>

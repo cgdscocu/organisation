@@ -6,8 +6,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: 'Telefon',
-      info: '+90 212 123 45 67',
-      subInfo: '+90 532 123 45 67',
+      info: '0 (532) 584 55 99',
+      subInfo: '0 (532) 584 55 99',
       color: 'text-green-600',
       bgColor: 'bg-green-100'
     },
@@ -69,7 +69,7 @@ const Contact = () => {
             {/* Quick Contact Buttons */}
             <div className="mt-8 space-y-4">
               <a
-                href="tel:+902121234567"
+                href="tel:+905325845599"
                 className="block w-full bg-green-600 hover:bg-green-700 text-center py-3 px-6 rounded-lg font-semibold transition-colors duration-200"
               >
                 📞 Hemen Ara
@@ -91,7 +91,7 @@ const Contact = () => {
                 Organizasyonunuz için özel fiyat teklifi hazırlıyoruz
               </p>
               <a
-                href="tel:+902121234567"
+                href="tel:+905325845599"
                 className="bg-white text-red-600 font-bold py-2 px-6 rounded-lg hover:bg-gray-100 transition-colors duration-200"
               >
                 Şimdi Ara

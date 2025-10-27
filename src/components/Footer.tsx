@@ -44,8 +44,8 @@ const Footer = () => {
               <div className="flex items-center space-x-3">
                 <Phone className="w-4 h-4 text-red-600 flex-shrink-0" />
                 <div>
-                  <p className="text-sm text-gray-300">+90 212 123 45 67</p>
-                  <p className="text-sm text-gray-300">+90 532 123 45 67</p>
+                  <p className="text-sm text-gray-300">0 (532) 584 55 99</p>
+                  <p className="text-sm text-gray-300">0 (532) 584 55 99</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
@@ -78,7 +78,7 @@ const Footer = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-gray-400">
-              © 2024 Münhasır Yemek & Organizasyon. Tüm hakları saklıdır.
+              © 2025 Münhasır Yemek & Organizasyon. Tüm hakları saklıdır.
             </p>
             <div className="flex items-center space-x-4 mt-4 md:mt-0">
               <p className="text-sm text-gray-400">
